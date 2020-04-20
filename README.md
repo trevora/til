@@ -8,12 +8,17 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Categories
 
 * [Git](#git)
+* [Unix](#unix)
 
 ---
 
 ### Git
 
 - [Project-specific Git Configuration](git/project-specific-git-configuration.md)
+
+### Unix
+
+- [Find Empty or Non-Empty Files](unix/find-empty-or-non-empty-files.md)
 
 ## License
 
