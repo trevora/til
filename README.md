@@ -19,7 +19,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Unix
 
 - [Find Empty or Non-Empty Files](unix/find-empty-or-non-empty-files.md)
-- [Parse a CSV File in Base](unix/parse-csv-file-bash.md)
+- [Parse a CSV File in Bash](unix/parse-csv-file-bash.md)
 
 ## License
 
