@@ -14,6 +14,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Git
 
+- [Improve Your Workflow with git-extras](git/improve-workflow-with-git-extras.md)
 - [Project-specific Git Configuration](git/project-specific-git-configuration.md)
 
 ### Unix
