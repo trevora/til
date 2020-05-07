@@ -7,10 +7,16 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Categories
 
+* [Bash](#bash)
 * [Git](#git)
 * [Unix](#unix)
 
 ---
+
+### Bash
+
+- [Lint bash/sh Scripts with Shellcheck](bash/lint-bash-scripts-with-shellcheck.md)
+- [Use Unofficial Bash Strict Mode to Avoid Bugs](bash/use-unofficial-bash-strict-mode.md)
 
 ### Git
 
